@@ -1,1 +1,1 @@
-# For-Loop---SoftUni
+# For-Loop exercises from the Softuni Basic.
